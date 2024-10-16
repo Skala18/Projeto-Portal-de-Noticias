@@ -1,0 +1,22 @@
+
+#primary {
+  padding-block: 20px;
+  justify-content: space-between;
+  align-items: center;
+  
+}
+
+#primary div {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+
+#secondary {
+  display: flex;
+  border-block: solid 1px var(--stroke-color);
+  justify-content: space-around;
+  padding-block: 14px;
+  margin: 0;
+}
